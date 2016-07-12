@@ -1,6 +1,6 @@
 # R-program for WilliamsPlot
 
- This R-program is for Williams plot based evaluation of Regression model for Applicability domain.
+ This R-program (Processed for publication) is for Williams plot based evaluation of Regression model for Applicability domain.
  Written by: Dr. Om Prakash, UGC-DSKPDF/BL/15-16/0291, C/o Prof. U.N. Dwivedi, Department of Biochemistry, Lucknow University, India.
  Package MASS needed R>=3.0.0 to run it.
  The data must contain two sections, as following: 
